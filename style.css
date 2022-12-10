@@ -96,6 +96,14 @@ header {
     margin-left: 9rem;
 }
 
+
+/* @media (max-width:300px){
+    .corp1{
+        font-size:2.5rem;
+    }
+
+} */
+
 .btn1 {
     font-size: 18px;
     font-weight: 500;
@@ -170,4 +178,98 @@ header {
     height: 95%;
     margin-left: 10%;
     margin-top: 9%;
+}
+.coursehed1 {
+    text-align: center;
+    padding-top: 6%;
+    margin-bottom: 2%;
+    font-weight: 700;
+}
+
+.ourh2 {
+    color: rgb(92, 18, 146);
+}
+
+.courseh2 {
+    color: rgb(130, 42, 193);
+}
+
+.crstopprt {
+    background: white;
+    margin-left: 6%;
+    margin-right: 6%;
+    transition: .4s ease-in-out;
+}
+
+.crstopprt:hover {
+    box-shadow: 0px 0px 25px -5px rgba(0, 0, 0, 0.39);
+    transform: scale(1.01);
+
+}
+
+.corsimg1 {
+    width: 100%;
+}
+
+.courstxtpt {
+    background: white;
+    height: 100%;
+    width: 90%;
+    padding: 9%;
+    padding-right: 0%;
+
+}
+
+.crshed1 {
+    color: rgb(130, 42, 193);
+    font-size: 20px;
+    margin-bottom: 4%;
+}
+
+.crstxtptcntnt {
+    font-size: 15px;
+
+
+}
+
+.crstxtstrnpt {
+    font-size: 14px;
+    margin-top: 3%;
+    color: rgb(83, 83, 83);
+}
+
+.crstxtstrnptatag {
+    color: rgb(83, 83, 83);
+}
+
+.crdrow {
+    width: 92%;
+    margin-left: 5%;
+}
+
+.card {
+    width: 95%;
+    border: none;
+    padding: .8rem;
+    transition: .4s ease-in-out;
+
+}
+
+.card:hover {
+    box-shadow: 0px 0px 25px -5px rgba(0, 0, 0, 0.39);
+    transform: scale(1.01);
+}
+
+.card-title {
+    height: 4.5rem;
+    color: rgb(92, 18, 146);
+}
+
+.card-text {
+    height: 6rem;
+}
+
+.crdbtn {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }

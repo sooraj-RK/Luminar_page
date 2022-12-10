@@ -1,0 +1,226 @@
+@media(max-width:1300px) {
+
+    .topbartxt {
+        padding: .6%;
+        margin-bottom: .2%;
+        font-size: 12px;
+
+    }
+
+    .hedrlogoimg {
+        width: 20%;
+        margin-left: 8%;
+    }
+
+    .slideimgsize {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .corh1a,
+    .corh1b {
+        font-size: 44px;
+        margin-left: 3%;
+        margin-bottom: 2%;
+    }
+
+    .corp1 {
+        font-size: 19px;
+        margin-left: 3%;
+        width: 95%;
+    }
+
+    .btn1,
+    .btn2 {
+        margin-top: 3%;
+        font-size: 19px;
+        font-weight: 400;
+        margin-bottom: 1.5%;
+        padding: 1.2%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .btn1 {
+
+        margin-left: 3%;
+    }
+
+    .imginpart2 {
+        width: 95%;
+        padding-top: 1%;
+    }
+
+    .hed2 {
+
+
+        margin-left: 9%;
+        margin-bottom: 3%;
+
+    }
+
+    .hed3 {
+        font-size: large;
+        margin-left: 9%;
+
+    }
+
+    .para2 {
+        margin-left: 9%;
+
+    }
+
+    .corsimg1 {
+        padding-top: 3%;
+
+    }
+
+    .courstxtpt {
+
+        padding-top: 3%;
+
+    }
+}
+
+@media (max-width:850px) {
+
+    .topbartxt {
+        padding: .6%;
+        margin-bottom: .2%;
+        font-size: 12px;
+
+    }
+
+    .hedrlogoimg {
+        width: 30%;
+        margin-left: 8%;
+    }
+
+    .slideimgsize {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .corh1a,
+    .corh1b {
+        font-size: 35px;
+        margin-left: 2%;
+        margin-bottom: 4%;
+    }
+
+    .corp1 {
+        font-size: 18px;
+        margin-left: 2%;
+        width: 90%;
+    }
+
+    .btn1,
+    .btn2 {
+        margin-top: 5%;
+        font-size: 18px;
+        font-weight: 400;
+        margin-bottom: 1.5%;
+        padding: 1.2%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .btn1 {
+
+        margin-left: 2%;
+    }
+
+    .imginpart2 {
+        width: 100%;
+        padding-top: 30%;
+    }
+
+    .hed2 {
+
+
+        margin-left: 10%;
+        margin-bottom: 3%;
+
+    }
+
+    .hed3 {
+        font-size: large;
+        margin-left: 10%;
+
+    }
+
+    .para2 {
+        margin-left: 10%;
+
+    }
+}
+
+@media (max-width:400px) {
+    .topbartxt {
+        padding: .5%;
+        margin-bottom: .1%;
+        font-size: 10px;
+
+    }
+
+    .hedrlogoimg {
+        width: 45%;
+        margin-left: 5%;
+    }
+
+    .slideimgsize {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+    }
+
+    .corh1a,
+    .corh1b {
+        font-size: 18px;
+        margin-left: 2%;
+    }
+
+    .corp1 {
+        font-size: 14px;
+        margin-left: 2%;
+        width: 85%;
+    }
+
+    .btn1,
+    .btn2 {
+        margin-top: 5%;
+        font-size: 14px;
+        font-weight: 200;
+        margin-bottom: 1.5%;
+        padding: 1.2%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .btn1 {
+
+        margin-left: 3%;
+    }
+
+    .hed2 {
+
+
+        margin-left: 10%;
+        margin-bottom: 3%;
+
+    }
+
+    .hed3 {
+        font-size: large;
+        margin-left: 10%;
+
+    }
+
+    .para2 {
+        margin-left: 10%;
+
+    }
+
+}
